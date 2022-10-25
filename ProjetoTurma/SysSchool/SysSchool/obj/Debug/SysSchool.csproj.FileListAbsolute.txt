@@ -1,0 +1,41 @@
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.csproj.AssemblyReference.cache
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.Properties.Resources.resources
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.csproj.GenerateResource.cache
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.csproj.CoreCompileInputs.cache
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\BD_SYSSCHOOL.mdf
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\BD_SYSSCHOOL_log.ldf
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\SysSchool.exe.config
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\SysSchool.exe
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\SysSchool.pdb
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.exe
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.pdb
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Principal.resources
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\bin\Debug\BD_SYSSCHOOL.mdf
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\bin\Debug\BD_SYSSCHOOL_log.ldf
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Usuario.resources
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Escola.resources
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_UC.resources
+C:\Users\Marcus Facine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Professor.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\BD_SYSSCHOOL.mdf
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\BD_SYSSCHOOL_log.ldf
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\bin\Debug\BD_SYSSCHOOL.mdf
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\bin\Debug\BD_SYSSCHOOL_log.ldf
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\SysSchool.exe.config
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\SysSchool.exe
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\bin\Debug\SysSchool.pdb
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.csproj.AssemblyReference.cache
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Aluno.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Escola.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Principal.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Professor.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Usuario.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_UC.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.Properties.Resources.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.csproj.GenerateResource.cache
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.csproj.CoreCompileInputs.cache
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.exe
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.pdb
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Login.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Sala.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Curso.resources
+C:\Users\marcus.fgfacine\Desktop\Compilados\SysSchool\SysSchool\obj\Debug\SysSchool.frm_Endereco.resources
